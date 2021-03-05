@@ -1,5 +1,5 @@
 body { background-image: url
-("forest.jpg") width:600px; background-color:limegreen; padding:50px;
+("forest.jpg") height: 500px; width:500px; background-color:limegreen; padding:50px;
 }
 h1 {Font-Size:72px; Font-family:"Sans-Serif"; text-align:center; color:blue; margin: 30px; padding: 50px;
 }
