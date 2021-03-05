@@ -1,8 +1,8 @@
-header {background-image: url ("forest.jpg") ; width:100%; background-color:grey; padding:50px;
+body {background-image: url ("forest.jpg") ; width:100%; background-color:grey; padding:50px;
 }
 h1 {Font-Size:72px; Font-family:"Sans-Serif"; text-align:center; color:Blue; margin: 30px; padding: 50px;
 }
-p {Font-size:48px; font-family:"Sans-Serif" color: green; text-align:center; height:40px;
+p {Font-size:48px; font-family:"Sans-Serif"; color: green; text-align:center; height:40px;
 }
 li { font-family: "Comic Sans MS"; font-size: 25px; color: yellow; text-align:center;
 }
