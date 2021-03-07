@@ -1,3 +1,4 @@
+/* font colors and size depictions for content of website portfolio*/
 h1 {Font-Size:72px; Font-family:"Sans-Serif"; text-align:center; color:blue; margin: 30px; padding: 50px;
 }
 p {Font-size:48px; font-family:"Sans-Serif"; color: green; text-align:center; height:40px;
@@ -5,4 +6,18 @@ p {Font-size:48px; font-family:"Sans-Serif"; color: green; text-align:center; he
 li { font-family: "Comic Sans MS"; font-size: 25px; color: aquamarine; text-align:center;
 }
  h2, h3 { font-family:"Comic Sans MS"; font-size:35px; color: red; text-align:center;
+}
+/* hyperlink pseudo classes*/
+a:link {
+  color: blue;
+}
+a:visited {
+  color: purple;
+}
+a:hover {
+  color: red; 
+}
+}
+a:active {
+  color: green;
 }
